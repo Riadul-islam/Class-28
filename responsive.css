@@ -1,0 +1,76 @@
+@media (max-width:992px){
+
+    
+    .team img{
+        width: 20%;
+    
+    }
+    .team-item{
+        margin-top: 65px;
+    }
+    nav ul li {
+        padding-right: 0px !important;
+    }
+}
+
+@media(max-width:768px){
+    .first-name{
+        margin-bottom:15px ;
+    }
+    .this-is-me{
+        margin-top: 20px;
+    }
+}
+
+@media(max-width:576px){
+
+    .team-item-2{
+        margin-top: 65px;
+       
+    }
+
+    .team img{
+        width: 30%;
+        position: relative;
+        margin-top: -90px;
+        top: 0;
+        left:0;
+          
+      
+    }
+    .banner{
+        text-align: center;
+    }
+    .about .card{
+        width: 100% !important;
+    }
+    .about-me{
+        text-align: center;
+        margin-top: 10px;
+
+    }
+
+    .banner-img{
+        display: flex;
+        order: -1;
+        text-align: center;
+    }
+    .banner-img img{
+        width: 100% !important;
+        max-width: 100%!important;
+    }
+    .team-item{
+        margin-top: 65px;
+        
+    }
+    .team-item-2{
+        margin-top: 65px;
+        text-align: center;
+    }
+    .team img{
+        width: 12%;
+        
+       
+    
+    }
+}

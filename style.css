@@ -1,0 +1,85 @@
+/* Tanbim Riad */
+nav ul li{
+    padding-right: 15px;
+}
+/* Banner section */
+.banner{
+    background-color: #f9f9ff;
+}
+/* .banner-content{
+margin-top: 80px;
+
+} */
+.banner a{
+    background-color: #8490ff;
+}
+.about a{
+    background-color: #8490ff;
+}
+
+
+
+/* Time Section */
+.timer{
+    background-color: #8490ff;
+}
+.timer span{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+
+/* Pricing Section */
+.pricing{
+    background-color: #f9f9ff;
+}
+
+.pricing .box1 .round {
+    background-color: #f9f9ff;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    border-radius: 50%;
+    margin: auto;
+    font-size: 18px;
+    font-weight: 500;
+    
+}
+.pricing .box1 .buy-now{
+    background-color: #fff;
+    border: 1px solid #4e5ff0;
+    color: #1123ccc0 !important;
+   
+   
+}
+.pricing .box1 .buy-now:hover{
+    background-color: #5f6ffcd7;
+    color: #fff !important;
+    transition: .6s;
+}
+
+.team img{
+    width: 22%;
+    position: relative;
+    margin-top: -90px;
+    top: -10px;
+    left: -90px;
+      
+  
+}
+/* Team section width */
+/* .wd{
+
+    width: 24%;
+    margin-right: 11px;
+
+} */
+/* Form section */
+
+.forms{
+    background-color: #f9f9ff;
+}
+.form-button{
+    background-color: #17a2b8;
+}
